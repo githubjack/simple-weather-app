@@ -1,0 +1,26 @@
+.canvas{
+  background:blueviolet;
+}
+
+
+
+.title-container{
+  height:90vh;
+  background-color:#e43f27;
+  background-image:url(images/0005053.jpg);
+  background-repeat:no-repeat;
+  background-size:282px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color:#ffffff;
+}
+
+
+.form-ontainer{
+  background-color:#2c5e50;
+  height:90vh;
+  padding-top:100px;
+  padding-left:50px;
+}
